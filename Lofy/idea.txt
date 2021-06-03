@@ -1,0 +1,11 @@
+#				lofy ideas 				#
+------------------------------------------------------------------------
+
+
+-learn fundementals of html
+-minimal
+-atributs
+-color
+-css
+-custom fonts
+-make android app
